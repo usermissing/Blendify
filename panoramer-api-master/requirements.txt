@@ -1,0 +1,7 @@
+flask
+flask-cors
+imutils
+matplotlib
+opencv-python
+scipy
+Wand
